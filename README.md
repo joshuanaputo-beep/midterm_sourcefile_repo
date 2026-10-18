@@ -12,3 +12,8 @@ This repository contains my JavaScript source codes developed during the midterm
 ## Purpose
 
 This repository is for organizing and documenting my JavaScript learning activities.
+
+## Git Demonstration
+
+This repository demonstrates Git initialization, staging,
+committing, pushing, pulling, cloning, branching, and merging.
